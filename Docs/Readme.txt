@@ -23,6 +23,8 @@ I also took my liberty to personalize the game a little bit by adding sound effe
 
 ![image](https://github.com/09Florin/GameFramework---Computer-Graphichs/assets/92792343/fd41958b-396f-4625-9046-c87e0c88497e)
 
+
+
 Tasks implementation:
 
 - Showing the second sprite that explodes on Q
